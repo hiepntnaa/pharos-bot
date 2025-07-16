@@ -84,7 +84,7 @@ class PharosTestnet:
                 "type": "function",
             },
         ]
-        self.ref_code = "PNFXEcz1CWezuu3g" # U can change it with yours.
+        self.ref_code = "8lkcTIRklbSg6O1k" # U can change it with yours.
         self.proxies = []
         self.proxy_index = 0
         self.account_proxies = {}
